@@ -1,6 +1,6 @@
-2D Game Engine Proyect Inpired by the HowToMakeAnRPG https://howtomakeanrpg.com/
+2D Game Engine Proyect Inpired by the HowToMakeAnRPG egnine https://howtomakeanrpg.com/
 
-This proyect is a Small 2d C++ d3d11 engine that uses lua for gameplay code
+This proyect is a Small 2D Game Engine programmed in C++ and d3d11 that uses lua for gameplay code
 
 ![Screen shot of the Game](HowToMakeAnRPG.jpg)
 
