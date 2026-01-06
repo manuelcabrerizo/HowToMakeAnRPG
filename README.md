@@ -2,7 +2,7 @@
 
 This proyect is a Small 2d C++ d3d11 engine that uses lua for gameplay code
 
-![Screen shot of the Game](SolarSystemRacing1)
+![Screen shot of the Game](HowToMakeAnRPG.jpg)
 
 Installation:
 
