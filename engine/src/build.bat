@@ -1,5 +1,7 @@
 @ECHO OFF
 
+if not exist ..\build mkdir ..\build
+
 SET compilerFLags= -Od -nologo -Gm- -GR- -Oi -WX -W3 -wd4530 -wd4201 -wd4100 -wd4189 -wd4505 -wd4101 -Zi
 SET linkerFlags= -incremental:no User32.lib Gdi32.lib Winmm.lib opengl32.lib 
 SET defines= 
